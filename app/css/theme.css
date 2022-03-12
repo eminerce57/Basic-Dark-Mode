@@ -1,0 +1,12 @@
+:root {
+    --main-bg: #fff;
+    --main-text: #272727;
+}
+
+
+/* dark mode  */
+
+[data-theme="dark"] {
+    --main-bg: #272727;
+    --main-text: #fff;
+}
